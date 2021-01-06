@@ -1,0 +1,11 @@
+/.metadata/
+/bin/
+
+/config
+/build
+/.gradle
+/.mvn
+/.settings
+.classpath
+.project
+/target
